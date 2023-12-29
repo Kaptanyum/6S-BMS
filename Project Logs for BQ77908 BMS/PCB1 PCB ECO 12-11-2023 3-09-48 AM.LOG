@@ -1,0 +1,8 @@
+Change Net Name : Old Net Name=CELL0 New Net Name=GND
+Added Member To Class: ClassName=BMS_MCU Member=Component C25 CAP 0603
+Added Member To Class: ClassName=BMS_MCU Member=Component C26 CAP 0603
+Added Member To Class: ClassName=BMS_MCU Member=Component C27 CAP 0603
+Added Member To Class: ClassName=BMS_MCU Member=Component C28 CAP 0603
+Added Member To Class: ClassName=BMS_MCU Member=Component C29 CAP 0603
+Added Member To Class: ClassName=BMS_MCU Member=Component C30 CAP 0603
+Added Member To Class: ClassName=BMS_MCU Member=Component C31 CAP 0603

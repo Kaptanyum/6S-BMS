@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=CELL6 Pin=J5-1
+Removed Pin From Net: NetName=DSG_RAIL Pin=J5-2
+Added Pin To Net: NetName=DSG_RAIL Pin=J5-1
+Added Pin To Net: NetName=CELL6 Pin=J5-2

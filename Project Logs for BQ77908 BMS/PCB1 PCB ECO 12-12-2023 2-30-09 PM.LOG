@@ -1,0 +1,29 @@
+Removed Member From Class: ClassName=BMS_MCU Member=C?
+Change Component Designator: OldDesignator=C29 NewDesignator=C31
+Change Component Designator: OldDesignator=C30 NewDesignator=C32
+Change Component Designator: OldDesignator=C31 NewDesignator=C33
+Change Component Designator: OldDesignator=C32 NewDesignator=C34
+Change Component Designator: OldDesignator=C33 NewDesignator=C35
+Change Component Designator: OldDesignator=C34 NewDesignator=C36
+Change Component Designator: OldDesignator=C35 NewDesignator=C37
+Change Component Designator: OldDesignator=C36 NewDesignator=C39
+Change Component Designator: OldDesignator=C37 NewDesignator=C38
+Change Component Designator: OldDesignator=C38 NewDesignator=C30
+Change Component Designator: OldDesignator=C? NewDesignator=C29
+Change Component Designator: OldDesignator=D11 NewDesignator=D12
+Change Component Designator: OldDesignator=D12 NewDesignator=D13
+Change Component Designator: OldDesignator=D13 NewDesignator=D11
+Change Component Designator: OldDesignator=J3 NewDesignator=J2
+Change Component Designator: OldDesignator=J4 NewDesignator=J3
+Change Component Designator: OldDesignator=J5 NewDesignator=J4
+Change Component Designator: OldDesignator=J6 NewDesignator=J5
+Change Component Designator: OldDesignator=J7 NewDesignator=J6
+Change Component Designator: OldDesignator=J8 NewDesignator=J7
+Change Component Designator: OldDesignator=J9 NewDesignator=J8
+Change Component Designator: OldDesignator=R31 NewDesignator=R30
+Change Component Designator: OldDesignator=R32 NewDesignator=R31
+Change Net Name : Old Net Name=NetJ3_1 New Net Name=NetJ2_1
+Change Net Name : Old Net Name=NetJ4_3 New Net Name=NetJ3_3
+Change Net Name : Old Net Name=NetJ7_3 New Net Name=NetJ6_3
+Change Net Name : Old Net Name=NetR32_2 New Net Name=NetR31_2
+Added Member To Class: ClassName=BMS_MCU Member=Component C39 CAP 0603

@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=AIN3 Pin=U7-7
+Removed Pin From Net: NetName=AIN4 Pin=U8-4
+Removed Pin From Net: NetName=AIN5 Pin=U8-5
+Added Pin To Net: NetName=AIN3 Pin=U8-4
+Added Pin To Net: NetName=AIN4 Pin=U8-5
+Added Pin To Net: NetName=AIN5 Pin=U8-6
+Added Member To Class: ClassName=BMS_MCU Member=Component C29 CAP 0603
+Added Member To Class: ClassName=BMS_MCU Member=Component C30 CAP 0603
+Added Member To Class: ClassName=BMS_MCU Member=Component C31 CAP 0603
+Added Member To Class: ClassName=BMS_MCU Member=Component C32 CAP 0603
+Added Member To Class: ClassName=BMS_MCU Member=Component C33 CAP 0603
+Added Member To Class: ClassName=BMS_MCU Member=Component C34 CAP 0603
+Added Member To Class: ClassName=BMS_MCU Member=Component C35 CAP 0603
+Added Member To Class: ClassName=BMS_MCU Member=Component C36 CAP 0603
+Added Member To Class: ClassName=BMS_MCU Member=Component C37 CAP 0603
+Added Member To Class: ClassName=BMS_MCU Member=Component C38 CAP 0603
+Added Member To Class: ClassName=BMS_CellBalance Member=Component D11 BYQ28ED
+Added Member To Class: ClassName=BMS_CellBalance Member=Component D12 1N4148WS-HT
+Added Member To Class: ClassName=BMS_CellBalance Member=Component J5 282845-2
+Added Member To Class: ClassName=BMS_MCU Member=Component R31 RES 0603
+Added Member To Class: ClassName=BMS_MCU Member=Component U2 TL3472CDR
+Added Member To Class: ClassName=BMS_MCU Member=Component U3 TL3472CDR
+Added Member To Class: ClassName=BMS_MCU Member=Component U4 TL3472CDR
+Added Member To Class: ClassName=BMS_MCU Member=Component U7 ADS1015
+Added Member To Class: ClassName=BMS_MCU Member=Component U8 ADS1015

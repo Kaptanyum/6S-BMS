@@ -1,0 +1,14 @@
+Change Component Comment : Designator=R15 Old Comment=0R New Comment=RES 0603
+Change Library: Component "D1" not found
+Change Library: Component "D2" not found
+Change Library: Component "D3" not found
+Change Library: Component "D4" not found
+Change Library: Component "D5" not found
+Change Library: Component "D6" not found
+Change Component Library : Designator=D7 Old Library=Kaptanyums Lib.IntLib New Library=Schlib.SchLib
+Change Component Library : Designator=D9 Old Library=Kaptanyums Lib.IntLib New Library=Schlib.SchLib
+Change Component Library : Designator=D10 Old Library=Kaptanyums Lib.IntLib New Library=Schlib.SchLib
+Added Pin To Net: NetName=GND Pin=R19-1
+Added Pin To Net: NetName=GND Pin=R20-1
+Added Pin To Net: NetName=GND Pin=U1-11
+Added Pin To Net: NetName=GND Pin=U1-29

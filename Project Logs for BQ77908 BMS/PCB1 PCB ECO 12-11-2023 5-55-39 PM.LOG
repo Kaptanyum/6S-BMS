@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=OSC_IN Pin=C29-2
+Removed Pin From Net: NetName=GND Pin=R30-1
+Added Pin To Net: NetName=OSC_IN Pin=C29-1
+Added Pin To Net: NetName=GND Pin=C29-2
+Added Pin To Net: NetName=NetC30_1 Pin=R30-1
+Added Pin To Net: NetName=OSC_IN Pin=X1-1

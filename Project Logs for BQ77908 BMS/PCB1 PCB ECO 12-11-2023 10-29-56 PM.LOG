@@ -1,0 +1,2 @@
+Added Pin To Net: NetName=GND Pin=D10-2
+Added Member To Class: ClassName=BMS_CellBalance Member=Component C16 CAP 0603

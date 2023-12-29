@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=TS Pin=J2-1
+Removed Pin From Net: NetName=VTSB Pin=J2-2
+Removed Member From Class: ClassName=BMS_CellBalance Member=J2

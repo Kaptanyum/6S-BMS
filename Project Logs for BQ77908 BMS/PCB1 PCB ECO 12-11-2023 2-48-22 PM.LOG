@@ -1,0 +1,38 @@
+Added Member To Class: ClassName=BMS_CellBalance Member=Component C1 CAP 0805
+Added Member To Class: ClassName=BMS_CellBalance Member=Component C3 CAP 0805
+Added Member To Class: ClassName=BMS_CellBalance Member=Component C9 CAP 0805
+Added Member To Class: ClassName=BMS_CellBalance Member=Component C13 CAP 0603
+Added Member To Class: ClassName=BMS_CellBalance Member=Component C17 CAP 0603
+Added Member To Class: ClassName=BMS_CellBalance Member=Component C19 CAP 0603
+Added Member To Class: ClassName=BMS_CellBalance Member=Component C20 CAP 0603
+Added Member To Class: ClassName=BMS_CellBalance Member=Component C21 CAP 0603
+Added Member To Class: ClassName=BMS_CellBalance Member=Component C22 CAP 0603
+Added Member To Class: ClassName=BMS_CellBalance Member=Component C24 CAP 0603
+Added Member To Class: ClassName=BMS_MCU Member=Component C25 CAP 0603
+Added Member To Class: ClassName=BMS_MCU Member=Component C27 CAP 0603
+Added Member To Class: ClassName=BMS_MCU Member=Component C29 CAP 0603
+Added Member To Class: ClassName=BMS_MCU Member=Component C32 CAP 0603
+Added Member To Class: ClassName=BMS_MCU Member=Component C34 CAP 0603
+Added Member To Class: ClassName=BMS_MCU Member=Component C36 CAP 0603
+Added Member To Class: ClassName=BMS_CellBalance Member=Component D1 LTW-C191TLA
+Added Member To Class: ClassName=BMS_CellBalance Member=Component D7 SMAJ36A-HT
+Added Member To Class: ClassName=BMS_CellBalance Member=Component D11 1N4148WS-HT
+Added Member To Class: ClassName=BMS_CellBalance Member=Component D13 BYQ28ED
+Added Member To Class: ClassName=BMS_CellBalance Member=Component J1 JST-XH-7
+Added Member To Class: ClassName=BMS_CellBalance Member=Component J4 146285-3
+Added Member To Class: ClassName=BMS_CellBalance Member=Component J6 282845-2
+Added Member To Class: ClassName=BMS_CellBalance Member=Component J7 146285-3
+Added Member To Class: ClassName=BMS_CellBalance Member=Component R2 RES 1206
+Added Member To Class: ClassName=BMS_CellBalance Member=Component R8 RES 0603
+Added Member To Class: ClassName=BMS_CellBalance Member=Component R10 RES 2512
+Added Member To Class: ClassName=BMS_CellBalance Member=Component R14 RES 0603
+Added Member To Class: ClassName=BMS_CellBalance Member=Component R16 RES 0603
+Added Member To Class: ClassName=BMS_CellBalance Member=Component R17 RES 0603
+Added Member To Class: ClassName=BMS_CellBalance Member=Component R24 RES 0603
+Added Member To Class: ClassName=BMS_CellBalance Member=Component R26 RES 0603
+Added Member To Class: ClassName=BMS_CellBalance Member=Component R28 RES 0603
+Added Member To Class: ClassName=BMS_CellBalance Member=Component R29 RES 0603
+Added Member To Class: ClassName=BMS_MCU Member=Component R32 RES 0603
+Added Member To Class: ClassName=BMS_MCU Member=Component U7 ADS1015
+Added Member To Class: ClassName=BMS_MCU Member=Component U8 ADS1015
+Added Member To Class: ClassName=BMS_MCU Member=Component U10 MCP2551T-I
